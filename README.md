@@ -1,6 +1,6 @@
 # WebScraping
-Web Scraping data using Python is a useful skill in order to get insights from different sources of data.
-I've made some projects to showcase this scrapings:
+Web Scraping data using is a useful skill in order to get insights from different sources of data.
+I've made some projects using Python to showcase this scrapings:
 
 **(1) - Web Scraping With Python — Get the Top 100 Most-Streamed Songs on Spotify**
 https://medium.com/better-programming/web-scraping-with-python-top-100-most-streamed-songs-on-spotify-5cddb95d4175
