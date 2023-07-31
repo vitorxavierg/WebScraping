@@ -12,6 +12,6 @@ This project was made only to show the techniques and libraries used to scrape t
 https://medium.com/towardsdev/cars-prices-reviews-study-step-1-data-scraping-8089ac94389
 
 This is the first part of a three-part project I've made. In the first part, it's used BeautifulSoup and Selenium libs to scrape data from a selling cars website.
-Check out the medium article to read the other to parts.
+Check out the Medium article to read the other to parts.
 
 
